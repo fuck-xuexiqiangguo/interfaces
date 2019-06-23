@@ -1,13 +1,13 @@
 ## 学习强国文章列表接口
 
 ```
-https://www.xuexi.cn/98d5ae483720f701144e4dabf99a4a34/data5957f69bffab66811b99940516ec8784.js
+https://www.xuexi.cn/lgdata/1crqb964p71.json
 ```
 
 ## 学习强国视频列表接口
 
 ```
-https://www.xuexi.cn/4426aa87b0b64ac671c96379a3a8bd26/datadb086044562a57b441c24f2af1c8e101.js
+https://www.xuexi.cn/lgdata/1novbsbi47k.json
 ```
 
 ## 获取今日积分接口
